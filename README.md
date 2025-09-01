@@ -1,88 +1,62 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ashif</h1>
-<h3 align="center">🚀 Full Stack Developer | React Specialist | Go & DevOps Enthusiast</h3>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=130&section=header&text=Mohamed%20Ashif&fontSize=44&fontColor=ffffff&fontAlign=50&fontAlignY=35" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;React+%26+Frontend+Specialist;GoLang+%7C+DevOps+Learner;Always+Learning+%26+Building" alt="Typing Animation" />
+  <b>Full-Stack JavaScript • React • Node.js</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashifkkt&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
-
-## 💡 About Me  
-
-I’m a **Full Stack Developer** passionate about building scalable applications and clean user experiences.  
-- ⚡ Focused on **React** for frontend and **Go/Node.js** for backend.  
-- ☁️ Exploring **DevOps practices** and **AI/ML integration**.  
-- 🎨 I enjoy blending **design thinking** with engineering to build impactful solutions.  
-- 📈 Always curious, always improving.  
-
----
-
-## 🛠️ Tech Stack  
-
-### 🌐 Frontend  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
-
-### ⚙️ Backend  
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-
-### 🗄️ Databases & Cloud  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?logo=github&logoColor=white)  
-
-### 🎨 Design Tools  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashifkkt&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashifkkt&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashifkkt&layout=compact&theme=radical" height="150"/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&center=true&vCenter=true&width=540&lines=React+%7C+Next.js+%7C+Vite;Node.js+%7C+Express+%7C+REST;TypeScript+%7C+Redux+Toolkit+%7C+TanStack+Query;Clean+UI.+Scalable+APIs.+Solid+DX."
+    alt="typing"
+  />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements  
+### About
+I build **responsive React UIs** and **performant Node.js APIs** with a focus on DX, clean architecture, and production readiness.
 
+- Frontend: React, Next.js, Vite, Tailwind CSS, Redux Toolkit, TanStack Query  
+- Backend: Node.js, Express, REST, Auth/JWT, Rate-limiting, Caching  
+- Tooling: TypeScript, ESLint/Prettier, Husky/Commitlint, Vitest/Jest, Playwright
+
+---
+
+### Tech (JS-only)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashifkkt&theme=onedark&no-frame=true&margin-w=10&row=1" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,reactquery,tailwind,vite,nodejs,express,eslint,prettier,vitest,jest,playwright&perline=8" />
 </p>
 
 ---
 
-## ✍️ Quote of the Day  
+### Featured Work
+- **Vanforces Admin Portal** — analytics, filters, export, server actions, Google Maps,WebSocket  
+- **Kaser Admin** — RBAC, protected routes, virtualized data table using Redux 
+- **Node API Starter** — Express, JWT, zod validation, rate limits, tests
+- **Almawasil** — Next js,Tailwind,React pdf,Websocket 
 
+
+
+### Stats
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ashifkkt&show_icons=true&hide_title=true&theme=transparent" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=ashifkkt&theme=transparent" />
+</p>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashifkkt&layout=compact&theme=transparent" />
 </p>
 
 ---
 
-## 🌐 Connect with Me  
+### Contact
+- Email: **ashifkkt1010@gmail.com**  
+- LinkedIn: [ashif-kkt](https://linkedin.com/in/ashif-kkt)  
+- GitHub: [@ashifkkt](https://github.com/ashifkkt)
 
-<p align="center">
-  <a href="mailto:ashifkkt1010@gmail.com"><img src="https://img.icons8.com/bubbles/50/gmail.png" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/ashif-kkt"><img src="https://img.icons8.com/bubbles/50/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://github.com/ashifkkt"><img src="https://img.icons8.com/bubbles/50/github.png" alt="GitHub"/></a>
-  <a href="https://www.instagram.com/ashif_kkt"><img src="https://img.icons8.com/bubbles/50/instagram.png" alt="Instagram"/></a>
-  <a href="https://www.youtube.com/@mohamedAshif"><img src="https://img.icons8.com/bubbles/50/youtube.png" alt="YouTube"/></a>
-</p>
+<!-- Optional: Contribution snake (enable via GitHub Action then uncomment)
+![snake gif](https://github.com/ashifkkt/ashifkkt/blob/output/github-contribution-grid-snake.svg)
+-->
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=90&section=footer" />
