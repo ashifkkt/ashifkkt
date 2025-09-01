@@ -2,21 +2,22 @@
 <h3 align="center">🚀 Full Stack Developer | React Specialist | Go & DevOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;React+%26+Frontend+Specialist;GoLang+%7C+DevOps+Learner;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;React+%26+Frontend+Specialist;GoLang+%7C+DevOps+Learner;Always+Learning+%26+Building" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ris-Codes&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ashifkkt&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 ## 💡 About Me  
 
-🔹 Passionate **Full Stack Developer** with a focus on building scalable web apps using **React** on the frontend and **Go/Node** on the backend.  
-🔹 Interested in **DevOps**, **AI/ML integration**, and building products that solve real problems.  
-🔹 I enjoy designing clean UIs, experimenting with new stacks, and mentoring peers.  
-🔹 Always curious & constantly improving my craft.  
+I’m a **Full Stack Developer** passionate about building scalable applications and clean user experiences.  
+- ⚡ Focused on **React** for frontend and **Go/Node.js** for backend.  
+- ☁️ Exploring **DevOps practices** and **AI/ML integration**.  
+- 🎨 I enjoy blending **design thinking** with engineering to build impactful solutions.  
+- 📈 Always curious, always improving.  
 
 ---
 
@@ -51,7 +52,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashifkkt&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashifkkt&theme=radical" alt="Streak Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashifkkt&theme=radical" alt="GitHub Streak" height="160"/>
 </p>
 
 <p align="center">
